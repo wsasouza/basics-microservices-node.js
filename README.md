@@ -9,17 +9,13 @@
 <h1 align="center">Conceitos básicos da construção de microsserviços com Node.js</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wsasouza/basics-microservices-node.js
-?color=7159C1">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wsasouza/basics-microservices-node.js?color=7159C1">
 
-<img alt="Github language count" src="https://img.shields.io/github/languages/count/wsasouza/basics-microservices-node.js
-?color=7159C1">
+<img alt="Github language count" src="https://img.shields.io/github/languages/count/wsasouza/basics-microservices-node.js?color=7159C1">
 
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/wsasouza/basics-microservices-node.js
-?color=7159C1">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/wsasouza/basics-microservices-node.js?color=7159C1">
 
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/wsasouza/basics-microservices-node.js
-?color=7159C1">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/wsasouza/basics-microservices-node.js?color=7159C1">
 
 </p>
 
